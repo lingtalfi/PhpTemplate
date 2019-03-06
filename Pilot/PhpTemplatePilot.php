@@ -1,6 +1,6 @@
 <?php
 
-namespace PhpTemplate\Pilot;
+namespace Ling\PhpTemplate\Pilot;
 
 /*
  * LingTalfi 2016-02-03

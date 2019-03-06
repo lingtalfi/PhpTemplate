@@ -1,11 +1,11 @@
 <?php
 
-namespace PhpTemplate;
+namespace Ling\PhpTemplate;
 
 /*
  * LingTalfi 2016-02-03
  */
-use PhpTemplate\Pilot\PhpTemplatePilot;
+use Ling\PhpTemplate\Pilot\PhpTemplatePilot;
 
 class PhpTemplate
 {
